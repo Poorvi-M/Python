@@ -24,4 +24,5 @@ def calculate_love_score(name1, name2):
     total2= count3+count4
     final_total= str(total2)+ str(total)
     print(f"{final_total}")
-calculate_love_score("vaishnavi umesh", "poorvi mitra shastry")
+
+calculate_love_score("", "")
